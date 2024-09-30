@@ -1,0 +1,1 @@
+# git_gizem_odev1
